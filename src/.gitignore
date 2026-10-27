@@ -1,0 +1,17 @@
+
+# Compiled Java output
+bin/
+*.class
+
+# IDE / workspace files
+.vscode/
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+# Secrets and local environment
+.env
+.env.*
+application-local.properties
